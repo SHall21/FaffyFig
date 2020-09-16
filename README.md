@@ -1,1 +1,8 @@
 # FaffyFig
+Fig is having a right good kip, but even in his dreams, Marm is after him.
+
+
+
+# Game Information
+- Based on my Brothers cats, Figaro and Marmalade who are always having a scrap
+- Foundation of the game was built following the guide: [Web Development using BLAZOR WEBASSEMBLY! Let's Build Flappy Bird WITHOUT JAVASCRIPT!](https://youtu.be/wTmZCu16LNU) by Erin McLaughlin
