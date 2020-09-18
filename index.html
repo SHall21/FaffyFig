@@ -80,7 +80,7 @@
             sound.type = 'audio/mpeg';
             document.body.appendChild(sound);
             sound.load();
-            sound.play();
+            sound.play().catch(() => void 0);
         }
     </script>
 </body>
